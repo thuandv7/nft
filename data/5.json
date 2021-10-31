@@ -1,0 +1,25 @@
+{
+  "name" : "Protector",
+ "description" : "",
+ "external_url" : "https://raw.githubusercontent.com",
+ "image" : "https://raw.githubusercontent.com/thuandv7/nft/main/s5.png",
+ "itemId" : 5,
+ "attributes" : [ 
+     {
+         "trait_type" : "Ore",
+         "value" : "50"
+     }, 
+     {
+         "trait_type" : "Stone",
+         "value" : "25"
+     }, 
+     {
+         "trait_type" : "Lumber",
+         "value" : "100"
+     }, 
+     {
+         "trait_type" : "Fiber",
+         "value" : "75"
+     }
+ ]
+}
